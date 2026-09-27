@@ -66,12 +66,7 @@ niet volledig automatisch:
 
 ## Nog in te vullen vóór livegang
 
-Zoek in `index.html` naar deze placeholders:
-
-| Wat | Waar | Zoek op |
-|---|---|---|
-| Link naar het Dienstverleningsdocument | Footer | `Dienstverleningsdocument` (href is nu `#`) |
-| Link naar een agenda/Calendly | Contactblok | `Plan direct een afspraak` (href is nu `#`) |
+Alle eerder openstaande links zijn nu ingevuld. Er staat geen placeholder-link (`href="#"`) meer in de pagina.
 
 ## Compliance
 
