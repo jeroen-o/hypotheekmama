@@ -1,0 +1,4 @@
+Contact: mailto:info@hypotheekmama.nl
+Expires: 2027-10-29T00:00:00.000Z
+Preferred-Languages: nl, en
+Canonical: https://hypotheekmama.nl/.well-known/security.txt
